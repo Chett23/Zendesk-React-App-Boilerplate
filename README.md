@@ -3,11 +3,8 @@
 ## Includes
 
 * React
-* Redux
-* Redux Thunk
 * Webpack
 * Babel
-* SASS compiler
 * CSS modules
 * Jest
 * zafClient
@@ -15,7 +12,7 @@
 
 ## How to use it
 
-Start by cloning this repository with `git clone https://github.com/Cloudhuset/Zendesk-React-App-Boilerplate.git`
+Cloned from Cloudhuset using `git clone https://github.com/Cloudhuset/Zendesk-React-App-Boilerplate.git`
 
 ### Commands
 

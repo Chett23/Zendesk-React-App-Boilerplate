@@ -1,9 +1,9 @@
 {
   "name": "Zendesk React App Boilerplate",
   "author": {
-    "name": "Mathias V. Nielsen",
-    "email": "mn@cloudhuset.dk",
-    "url": "https://cloudhuset.dk"
+    "name": "Chester Hansen",
+    "email": "chester.hansen@pillpack.com",
+    "url": "https://www.pillpack.com"
   },
   "defaultLocale": "en",
   "private": true,
